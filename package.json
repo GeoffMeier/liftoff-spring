@@ -12,6 +12,9 @@
     },
     "dependencies": {
         "@clerk/nextjs": "^4.15.0",
+        "@tanstack/react-query": "^4.29.7",
+        "@tanstack/react-query-devtools": "^4.29.7",
+        "@tanstack/react-table": "^8.9.1",
         "autoprefixer": "10.4.14",
         "eslint": "8.38.0",
         "eslint-config-next": "13.3.0",
